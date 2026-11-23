@@ -1,0 +1,10 @@
+column,description,model_handling
+record_id,Synthetic ID,Exclude
+age,Simulated age,Numeric predictor
+annual_income,Simulated income,Numeric predictor
+account_balance,Simulated account balance,Numeric predictor
+monthly_transactions,Simulated transaction count,Numeric predictor
+late_payment_flag,Simulated indicator,Numeric predictor
+channel,Simulated channel,Categorical predictor
+region,Simulated region,Categorical predictor
+fraud_flag,Artificially generated binary label,Target only
